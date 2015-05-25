@@ -1,5 +1,6 @@
 # BhattaruzVault
 Repository for random data
+<html>
 <title>Greetings</title>
 
 <p>
@@ -8,3 +9,4 @@ Repository for random data
 
 <p><i>CML Web Team :) </i>
 </body>
+</html>
