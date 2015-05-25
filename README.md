@@ -3,8 +3,8 @@ Repository for random data
 <title>Greetings</title>
 
 <p>
- BODY BGCOLOR=green TEXT=red LINK=yellow VLINK=blue>
-<Font color = "BLUE">Shyam Bhattaru rocks!</font>
+<body><b><u>
+<Font color = "BLUE">Shyam Bhattaru rocks!</font></u></b>
 
 <p><i>Oh yes ...he does :) </i>
 </body>
