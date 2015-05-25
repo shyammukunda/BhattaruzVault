@@ -1,7 +1,7 @@
 # BhattaruzVault
 Repository for random data
-<html>
-<title><p>Greetings</title>
+<html><p>
+<title>Greetings</title>
 
 <p>
 <body><b><u>
