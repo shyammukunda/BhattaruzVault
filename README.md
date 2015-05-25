@@ -4,7 +4,7 @@ Repository for random data
 
 <p>
  BODY BGCOLOR=green TEXT=red LINK=yellow VLINK=blue>
-<Font color = blue>Shyam Bhattaru rocks!</font>
+<Font color = "BLUE">Shyam Bhattaru rocks!</font>
 
 <p><i>Oh yes ...he does :) </i>
 </body>
