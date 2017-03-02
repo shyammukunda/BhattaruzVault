@@ -7,6 +7,6 @@ Repository for random data
 <body><b><u>
 <Font color = FFD700>Shyam Bhattaru </font></u></b>
 
-<p><i>CML Web Team :) </i>
+<p><i> </i>
 </body>
 </html>
